@@ -1,2 +1,2 @@
 # tensorflow-sp500
-practice-tensorflow
+practice using tensorflow to predict stock
